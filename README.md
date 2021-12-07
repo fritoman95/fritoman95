@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert Freitas
-- 🌱 I’m currently learning the best practices of Unity as well as game programming!
+- 🌱 I am currently learning the best practices of Unity as well as game programming!
 - 📫 You can reach me by emailing me at robert.freitas95@gmail.com
 
 <!---
